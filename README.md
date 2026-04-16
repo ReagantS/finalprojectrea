@@ -1,7 +1,7 @@
 # Task Management System
 
-[![CI](https://github.com/your-username/final-project-pengujian/actions/workflows/ci.yml/badge.svg)](https://github.com/your-username/final-project-pengujian/actions/workflows/ci.yml)
-[![Coverage Status](https://coveralls.io/repos/github/your-username/final-project-pengujian/badge.svg?branch=main)](https://coveralls.io/github/your-username/final-project-pengujian?branch=main)
+[![CI](https://github.com/ReagantS/finalprojectrea/actions/workflows/ci.yml/badge.svg)](https://github.com/ReagantS/finalprojectrea/actions/workflows/ci.yml)
+[![Coverage Status](https://coveralls.io/repos/github/ReagantS/finalprojectrea/badge.svg?branch=main)](https://coveralls.io/github/ReagantS/finalprojectrea?branch=main)
 
 A simple task management system built with Node.js for the Software Testing final project. This application demonstrates automated testing practices, continuous integration, and code quality assurance.
 
